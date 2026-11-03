@@ -96,6 +96,8 @@ try {
   return new Response("OK");
 
 } catch (error) {
+  console.error("ОШИБКА БОТА:", error.stack || error);
+
   return new Response("Ошибка: " + error.message, {
     status: 500
   });
