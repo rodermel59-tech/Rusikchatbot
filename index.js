@@ -1,4 +1,4 @@
-// index.js - Семейный ИИ-бот с жестко прописанным токеном Telegram
+// index.js - Семейный проба ИИ-бот с жестко прописанным токеном Telegram
 let currentCharacter = "Заботливый помощник";
 let currentMood = "Счастливое";
 
