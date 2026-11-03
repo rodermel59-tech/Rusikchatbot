@@ -2,7 +2,7 @@ let currentCharacter = "Заботливый помощник";
 let currentMood = "Счастливое";
 
 // Временно оставляем токен здесь
-const TELEGRAM_TOKEN = "ВСТАВЬ_СВОЙ_ТОКЕН";
+const TELEGRAM_TOKEN = "9210024994:AAEy_Pts127SEhUBw8eQnO_9iVKTaMsE4sE";
 const TELEGRAM_API = "https://api.telegram.org/bot${TELEGRAM_TOKEN}";
 
 export default {
